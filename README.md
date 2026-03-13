@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-# NAME : DHANUSH M D
-# REG.NO: 212224100011
+# NAME : KABILAN P
+# REG.NO: 212224040145
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -80,4 +80,4 @@ else:
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
 
 # LINK :
- https://github.com/Dhanush878/Poisson_distribution
+ https://github.com/Kabilan6383/Poisson_distribution
